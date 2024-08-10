@@ -1,0 +1,329 @@
+{
+  "game": "Super Metroid",
+  "pack": "Hat in Time SM",
+  "artist": "Gears For Breakfast",
+  "output_prefix": "hit_sm",
+  "normalization": -15.0,
+  "verbosity": 2,
+  "keep_temps": false,
+  "first_track": 1,
+  "last_track": 41,
+  "tracks": [
+    {
+      "track_number": 1,
+      "title": "File Start",
+      "file": "Tracks\\A Hat in Time B-Side - 67 Level Intro Mafia Town.mp3",
+      "output": "hit_sm-1.pcm"
+    },
+    {
+      "track_number": 2,
+      "title": "Item Acquisition Fanfare",
+      "file": "Tracks\\A Hat in Time B-Side - 84 Jingle Time Piece Get.mp3",
+      "output": "hit_sm-2.pcm",
+      "trim_end": 313901
+    },
+    {
+      "track_number": 3,
+      "title": "Item room",
+      "file": "Tracks\\A Hat in Time B-Side - 100 Peace and Tranquility.mp3",
+      "output": "hit_sm-3.pcm",
+      "loop": 992710,
+      "trim_end": 5954560
+    },
+    {
+      "track_number": 4,
+      "title": "Opening with intro",
+      "file": "Tracks\\A Hat in Time OST - 01 Main Theme.mp3",
+      "output": "hit_sm-4.pcm",
+      "loop": 615165,
+      "trim_end": 12887314
+    },
+    {
+      "track_number": 5,
+      "title": "Opening without intro",
+      "file": "Tracks\\A Hat in Time OST - 02 Title Screen.mp3",
+      "output": "hit_sm-5.pcm",
+      "loop": 681615,
+      "trim_end": 8544348
+    },
+    {
+      "track_number": 6,
+      "title": "Crateria (First Landing Thunder)",
+      "file": "Tracks\\A Hat in Time OST - 39 Dead Bird Studio is Closed.mp3",
+      "output": "hit_sm-6.pcm",
+      "loop": 1634155,
+      "trim_end": 6013417
+    },
+    {
+      "track_number": 7,
+      "title": "Crateria (First Landing No Thunder)",
+      "file": "Tracks\\A Hat in Time OST - 39 Dead Bird Studio is Closed.mp3",
+      "output": "hit_sm-7.pcm",
+      "loop": 1634155,
+      "trim_end": 6013417
+    },
+    {
+      "track_number": 8,
+      "title": "Crateria",
+      "file": "Tracks\\A Hat in Time B-Side - 27 Welcome To Mafia Town Full Length.mp3",
+      "output": "hit_sm-8.pcm",
+      "loop": 886259,
+      "trim_end": 8144015
+    },
+    {
+      "track_number": 9,
+      "title": "Crateria Statue Room",
+      "file": "Tracks\\A Hat in Time OST - 13 So, Whats The Plan.mp3",
+      "output": "hit_sm-9.pcm",
+      "loop": 641891,
+      "trim_end": 3336378
+    },
+    {
+      "track_number": 10,
+      "title": "Samus' Ship",
+      "file": "Tracks\\A Hat in Time B-Side - 28 Welcome To Mafia Town Beach Full Length.mp3",
+      "output": "hit_sm-10.pcm",
+      "loop": 2127993,
+      "trim_end": 9385613
+    },
+    {
+      "track_number": 11,
+      "title": "Brinstar with vegetation",
+      "file": "Tracks\\A Hat in Time B-Side - 122 Nyakuza Metro - Green Clean Station.mp3",
+      "output": "hit_sm-11.pcm",
+      "loop": 2470804,
+      "trim_end": 6409083
+    },
+    {
+      "track_number": 12,
+      "title": "Brinstar Red Soil",
+      "file": "Tracks\\A Hat in Time B-Side - 124 Nyakuza Metro - Pink Paw Station.mp3",
+      "output": "hit_sm-12.pcm",
+      "loop": 6912420,
+      "trim_end": 14609878
+    },
+    {
+      "track_number": 13,
+      "title": "Upper Norfair",
+      "file": "Tracks\\A Hat in Time B-Side - 93 Tour Rift Battle Of The Birds.mp3",
+      "output": "hit_sm-13.pcm",
+      "loop": 380338,
+      "trim_end": 2799538
+    },
+    {
+      "track_number": 14,
+      "title": "Lower Norfair",
+      "file": "Tracks\\A Hat in Time B-Side - 90 Deep Sea Rift.mp3",
+      "output": "hit_sm-14.pcm",
+      "loop": 2490495,
+      "trim_end": 6837196
+    },
+    {
+      "track_number": 15,
+      "title": "Upper Maridia",
+      "file": "Tracks\\A Hat in Time OST - 66 Scootin' Through Clocktowers Beneath The Sea.mp3",
+      "output": "hit_sm-15.pcm",
+      "loop": 686709,
+      "trim_end": 8715344
+    },
+    {
+      "track_number": 16,
+      "title": "Lower Maridia",
+      "file": "Tracks\\A Hat in Time OST - 65 Clocktowers Beneath The Sea.mp3",
+      "output": "hit_sm-16.pcm",
+      "loop": 698167,
+      "trim_end": 8726426
+    },
+    {
+      "track_number": 17,
+      "title": "Tourian",
+      "file": "Tracks\\A Hat in Time B-Side - 96 Tour Rift Time's End.mp3",
+      "output": "hit_sm-17.pcm",
+      "loop": 806709,
+      "trim_end": 3226659
+    },
+    {
+      "track_number": 18,
+      "title": "Mother Brain Battle",
+      "file": "Tracks\\A Hat in Time B-Side - 109 Killing Two Birds.mp3",
+      "output": "hit_sm-18.pcm",
+      "loop": 2529034,
+      "trim_end": 5688530
+    },
+    {
+      "track_number": 19,
+      "title": "Big Boss Battle 1",
+      "file": "Tracks\\A Hat in Time B-Side - 31 Umbrella Mafia Chase.mp3",
+      "output": "hit_sm-19.pcm",
+      "loop": 62962,
+      "trim_end": 503762
+    },
+    {
+      "track_number": 20,
+      "title": "Evacuation",
+      "file": "Tracks\\A Hat in Time B-Side - 101 Collapsing Rift.mp3",
+      "output": "hit_sm-20.pcm",
+      "loop": 4791496,
+      "trim_end": 10467499
+    },
+    {
+      "track_number": 21,
+      "title": "Mysterious Statue Chamber",
+      "file": "Tracks\\A Hat in Time B-Side - 110 Mustache Girl EX Anticipation.mp3",
+      "output": "hit_sm-21.pcm",
+      "loop": 21463,
+      "trim_end": 835517
+    },
+    {
+      "track_number": 22,
+      "title": "Big Boss Battle 2",
+      "file": "Tracks\\A Hat in Time B-Side - 106 Death Wish Anticipation.mp3",
+      "output": "hit_sm-22.pcm",
+      "loop": 329730,
+      "trim_end": 2882209
+    },
+    {
+      "track_number": 23,
+      "title": "Tension / Hostile Incoming",
+      "file": "Tracks\\A Hat in Time OST - 74 You Are All Bad Guys.mp3",
+      "output": "hit_sm-23.pcm",
+      "loop": 6475916,
+      "trim_start": 5640543,
+      "trim_end": 12826317
+    },
+    {
+      "track_number": 24,
+      "title": "Plant Miniboss",
+      "file": "Tracks\\A Hat in Time B-Side - 99 Rythm Jump Studio Rift.mp3",
+      "output": "hit_sm-24.pcm",
+      "loop": 1058376,
+      "trim_end": 8467007
+    },
+    {
+      "track_number": 26,
+      "title": "Wrecked Ship Power Off",
+      "file": "Tracks\\A Hat in Time B-Side - 130 Rumbi Factory.mp3",
+      "output": "hit_sm-26.pcm",
+      "loop": 699663,
+      "trim_end": 8229135
+    },
+    {
+      "track_number": 27,
+      "title": "Wrecked Ship Power On",
+      "file": "Tracks\\A Hat in Time B-Side - 104 Wound-up Windmill.mp3",
+      "output": "hit_sm-27.pcm",
+      "loop": 3672446,
+      "trim_end": 7966901
+    },
+    {
+      "track_number": 28,
+      "title": "Title or Something",
+      "file": "Tracks\\A Hat in Time B-Side - 28 Welcome To Mafia Town Beach Full Length.mp3",
+      "output": "hit_sm-28.pcm",
+      "loop": 2127993,
+      "trim_end": 9385613
+    },
+    {
+      "track_number": 29,
+      "title": "Death Cry",
+      "file": "Tracks\\A Hat in Time B-Side - 116 Death Wish Death Jingle.mp3",
+      "output": "hit_sm-29.pcm"
+    },
+    {
+      "track_number": 30,
+      "title": "Ending",
+      "file": "Tracks\\A Hat in Time OST - 78 The End.mp3",
+      "output": "hit_sm-30.pcm"
+    },
+    {
+      "track_number": 31,
+      "title": "Kraid Incoming",
+      "file": "Tracks\\A Hat in Time OST - 51 A Forsaken Place.mp3",
+      "output": "hit_sm-31.pcm",
+      "loop": 5080027,
+      "trim_end": 6351197
+    },
+    {
+      "track_number": 32,
+      "title": "Kraid Battle",
+      "file": "Tracks\\A Hat in Time OST - 50 Toilet Of Doom.mp3",
+      "output": "hit_sm-32.pcm",
+      "loop": 209134,
+      "trim_end": 5944722
+    },
+    {
+      "track_number": 33,
+      "title": "Phantoon Incoming",
+      "file": "Tracks\\A Hat in Time B-Side - 107 Death Wish.mp3",
+      "output": "hit_sm-33.pcm",
+      "trim_end": 441000
+    },
+    {
+      "track_number": 34,
+      "title": "Phantoon Battle",
+      "file": "Tracks\\A Hat in Time B-Side - 107 Death Wish.mp3",
+      "output": "hit_sm-34.pcm",
+      "loop": 1458502,
+      "trim_start": 441000,
+      "trim_end": 5443241
+    },
+    {
+      "track_number": 35,
+      "title": "Draygon Battle",
+      "file": "Tracks\\A Hat in Time OST - 56 Your Contract Has Expired (Remix).mp3",
+      "output": "hit_sm-35.pcm",
+      "loop": 5358027,
+      "trim_start": 1279551,
+      "trim_end": 8704806
+    },
+    {
+      "track_number": 36,
+      "title": "Ridley Battle",
+      "file": "Tracks\\A Hat in Time B-Side - 111 Mustache Girl EX.mp3",
+      "output": "hit_sm-36.pcm",
+      "loop": 2240375,
+      "trim_end": 5497273
+    },
+    {
+      "track_number": 37,
+      "title": "Baby Incoming",
+      "file": "Tracks\\A Hat in Time B-Side - 88 Rock The Boat.mp3",
+      "output": "hit_sm-37.pcm",
+      "loop": 92157,
+      "trim_end": 2758989
+    },
+    {
+      "track_number": 38,
+      "title": "The Baby",
+      "file": "Tracks\\A Hat in Time OST - 75 Get Lost.mp3",
+      "output": "hit_sm-38.pcm",
+      "loop": 1557605,
+      "trim_end": 5438408
+    },
+    {
+      "track_number": 39,
+      "title": "Hyper Beam",
+      "file": "Tracks\\A Hat in Time OST - 74 You Are All Bad Guys.mp3",
+      "output": "hit_sm-39.pcm",
+      "loop": 18692329,
+      "trim_start": 18579900,
+      "trim_end": 23149224
+    },
+    {
+      "track_number": 40,
+      "title": "Game Over",
+      "file": "Tracks\\A Hat in Time B-Side - 126 Fast Food.mp3",
+      "output": "hit_sm-40.pcm",
+      "loop": 2811966,
+      "trim_end": 9867966
+    },
+    {
+      "track_number": 41,
+      "title": "Pre Power Bombs or somethin",
+      "file": "Tracks\\A Hat in Time B-Side - 28 Welcome To Mafia Town Beach Full Length.mp3",
+      "output": "hit_sm-41.pcm",
+      "loop": 2127993,
+      "trim_end": 9385613
+    }
+  ]
+}
